@@ -2,4 +2,4 @@
 this text editor is vary cool for writing text
 
 ## Pad-x
-<img src="Desktop/e.PNG>
+<img src="Desktop/e.png">
